@@ -1,4 +1,5 @@
 # GifPythonProject
 The legend of Python Final Project
 
-6 months of studying for data analytics
+First programming language I studied
+And eager for more
